@@ -96,6 +96,7 @@ body {
     margin: 0;
     padding: 0;
 }
+
 .second_slice h1 {
     color: #1F2937;
     font-size: 36px;
@@ -106,6 +107,7 @@ body {
     display: flex;
     margin: 0;
     padding: 0;
+    margin-bottom: 80px;
 }
 
 .image_text {
@@ -119,4 +121,32 @@ body {
 .a_image {
     width: 180px;
     height: 180px;
+}
+
+/* last part */
+.third_slice {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+.third_slice blockquote {
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+}
+
+blockquote {
+    width: 750px;
+    margin-top: 100px;
+}
+
+span {
+    margin-left: 550px;
+    margin-bottom: 50px;
+    font-weight: bold;
 }
