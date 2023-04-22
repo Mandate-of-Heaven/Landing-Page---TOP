@@ -150,3 +150,40 @@ span {
     margin-bottom: 50px;
     font-weight: bold;
 }
+
+/* last part */
+.fourth_slice {
+    background-color: #3882F6;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 80px 270px;
+    border-radius: 15px;
+}
+
+.action_text {
+    color: #F9FAF8;
+}
+
+.action_text h1 {
+    margin-top: 40px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.action_text p {
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-bottom: 40px;
+}
+
+.fourth_slice button {
+    color: #F9FAF8;
+    background-color: #3882F6;
+    border-color: #F9FAF8;
+    padding: 5px 25px;
+    border-radius: 5px;
+}
+
+
+
